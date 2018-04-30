@@ -69,6 +69,8 @@ public class MapsActivity extends FragmentActivity implements GoogleApiClient.Co
     private Marker mCurrLocation;
     private CameraPosition cameraPosition;
     private Button btn_search_box;
+
+    //button
     private int PLACE_AUTOCOMPLETE_REQUEST_CODE = 1;
 
 
